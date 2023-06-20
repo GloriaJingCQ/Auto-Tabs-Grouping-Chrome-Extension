@@ -1,22 +1,22 @@
 # Hackfest-Grouping-Tabs-Extension
 
 ## Motivation
-Created a Chrome Extension to automate tab grouping for improved browsing organization and productivity
-Utilized the OpenAI API to analyze web URLs, enabling accurate tab grouping based on content similarity
+- Created a Chrome Extension to automate tab grouping for improved browsing organization and productivity
+- Utilized the OpenAI API to analyze web URLs, enabling accurate tab grouping based on content similarity
 
 ## Challenges & Learnings:
-Inner Fear about unknown stuff 
-Leaning building Chrome extension
-Playing with async await and promise, callBacks
-Different run time environment
-Reasons behind bugs
+- Inner Fear about unknown stuff 
+- Learning to build Chrome extension
+- Playing with async await and promise, callBacks
+- Different run time environment
+- Reasons behind bugs
 
 ## Future Improvements:
-Max Tokens limitation
-Can I make this faster?
-Let user input their api key
-Security about user input
-Continuously Work on it and Publish it
+- Max Tokens limitation
+- Can I make this faster?
+- Let user input their api key
+- Security about user input
+- Continuously Work on it and Publish it
 
 ## Demo
 Before:
